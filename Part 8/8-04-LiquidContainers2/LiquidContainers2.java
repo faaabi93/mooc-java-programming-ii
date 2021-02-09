@@ -35,5 +35,6 @@ public class LiquidContainers2 {
             }
             System.out.println();
         }
+        scan.close();
     }
 }
