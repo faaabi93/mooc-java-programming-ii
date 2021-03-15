@@ -1,7 +1,7 @@
 # [Java Programming II - MOOC](https://java-programming.mooc.fi/)
 
 This repository contains my solutions for the MOOC - Java Programming II online course. Which is a continuation of the [Java Programming I](https://java-programming.mooc.fi/) course. My repository for the first course can be found [here](https://github.com/faaabi93/mooc-java-programming):
-Created by the [University of Helsinki](https://java-programming.mooc.fi)  
+Created by the [University of Helsinki](https://java-programming.mooc.fi). My certificate, which I got after completing the course, can be seen and also validated [here](https://certificates.mooc.fi/validate/a1q70nsp0ne).
 
    ![enter image description here](https://buildingai.elementsofai.com/illustrations/logos/university-logo.svg)  
 [The University of Helsinki](https://www.helsinki.fi/) is the oldest and largest institution of academic education in Finland. Through the power of science, the University has contributed to society, education and welfare since 1640.
